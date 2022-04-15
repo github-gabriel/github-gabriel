@@ -24,7 +24,3 @@ Hallo, ich bin Gabriel. Ich programmiere gerne in meiner Freizeit und hoste auf 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-java-github&theme=ayu-mirage )](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-java-github&hide=ShaderLab,HLSL&langs_count=10&theme=ayu-mirage )](https://github.com/anuraghazra/github-readme-stats)
-
-## Contact📨:
-
-<img src="https://github.com/gabriel-java-github/gabriel-java-github/blob/main/images/discord.png" width="40px"> **Gabriel.Dc#5550**<br><br><img src="https://github.com/gabriel-java-github/gabriel-java-github/blob/main/images/gmail.png" width="30px"> **gabriel.haberlach@gmail.com**

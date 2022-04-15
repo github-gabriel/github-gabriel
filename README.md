@@ -21,6 +21,6 @@ Hallo, ich bin Gabriel. Ich programmiere gerne in meiner Freizeit und hoste auf 
 ![](https://img.shields.io/badge/Tools-JetBrains-informational?style=flat&logo=jetbrains&color=fcdb03)
 
 ## GitHub Stats📈
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-java-github&theme=ayu-mirage )](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-java-github&theme=ayu-mirage )](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-java-github&hide=ShaderLab,HLSL&langs_count=10&theme=ayu-mirage )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-java-github&hide=ShaderLab,HLSL&langs_count=10&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

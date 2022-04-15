@@ -1,16 +1,13 @@
-### Hi there 👋
+## Gabriel GitHub
 
-<!--
-**gabriel-java-github/gabriel-java-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hallo, ich bin Gabriel. Ich programmiere gerne in meiner Freizeit und hoste auf GitHub einige meiner Projekte. Außerdem habe ich auch eine eigene [Website](gabriel-haberlach.me). Am liebsten aber arbeite ich mit Java. Zur Zeit interessiere ich mich auch sehr für Spring Boot und versuche C++ zu lernen.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-java-github&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-java-github&hide=ShaderLab,HLSL&langs_count=10&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+## Kontakt:
+
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="40" width="40" >  **Gabriel.Dc#5550**
+
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="40" width="40" >      **gabriel.haberlach@gmail.com**

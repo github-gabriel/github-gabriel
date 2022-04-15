@@ -4,7 +4,7 @@
 
 # Gabriel GitHub
 
-Hallo, ich bin Gabriel. Ich programmiere gerne in meiner Freizeit und hoste auf GitHub einige meiner Projekte. Außerdem habe ich auch eine eigene <a href="https://gabriel-haberlach.me/" target="blank">Website</a>. Am liebsten aber arbeite ich mit Java. Zur Zeit interessiere ich mich auch sehr für Spring Boot und versuche C++ zu lernen.
+Hallo, ich bin Gabriel. Ich programmiere gerne in meiner Freizeit und hoste auf GitHub einige meiner Projekte. Außerdem habe ich auch eine eigene <a href="https://gabriel-haberlach.me/" target="_blank">Website</a>. Am liebsten aber arbeite ich mit Java. Zur Zeit interessiere ich mich auch sehr für Spring Boot und versuche C++ zu lernen.
 
 ## Technical Skills💻
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=61DAFB)

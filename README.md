@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/gabriel-java-github/gabriel-java-github/blob/main/images/Gabriel-2.png" width="750px">
+</p>
+
 # Gabriel GitHub
 
 Hallo, ich bin Gabriel. Ich programmiere gerne in meiner Freizeit und hoste auf GitHub einige meiner Projekte. Außerdem habe ich auch eine eigene [Website](gabriel-haberlach.me). Am liebsten aber arbeite ich mit Java. Zur Zeit interessiere ich mich auch sehr für Spring Boot und versuche C++ zu lernen.

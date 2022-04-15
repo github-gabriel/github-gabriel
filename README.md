@@ -2,9 +2,9 @@
 
 Hallo, ich bin Gabriel. Ich programmiere gerne in meiner Freizeit und hoste auf GitHub einige meiner Projekte. Außerdem habe ich auch eine eigene [Website](gabriel-haberlach.me). Am liebsten aber arbeite ich mit Java. Zur Zeit interessiere ich mich auch sehr für Spring Boot und versuche C++ zu lernen.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-java-github&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-java-github&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-java-github&hide=ShaderLab,HLSL&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-java-github&hide=ShaderLab,HLSL&langs_count=10&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Kontakt:
 

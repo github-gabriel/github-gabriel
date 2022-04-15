@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gabriel-java-github/gabriel-java-github/blob/main/images/Gabriel-2.png" width="750px">
+  <img src="https://github.com/gabriel-java-github/gabriel-java-github/blob/main/images/Gabriel-2.png" width="600px">
 </p>
 
 # Gabriel GitHub

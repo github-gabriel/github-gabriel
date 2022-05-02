@@ -6,9 +6,19 @@
 
 Hallo, ich bin Gabriel. Ich programmiere gerne in meiner Freizeit und hoste auf GitHub einige meiner Projekte. Außerdem habe ich auch eine eigene <a target="_blank" href="https://gabriel-haberlach.me/">Website</a>. Am liebsten aber arbeite ich mit Java. Zur Zeit interessiere ich mich auch sehr für Spring Boot und versuche C++ zu lernen.
 
+## Über mich
+
+📌 Wohnort: Wolfsburg, Deutschland
+
+📌 Lieblingssprache: Java 
+
+📌 Kontakt: gabriel.haberlach@gmail.com
+
+📌 Website: [gabriel-haberlach.me](https://gabriel-haberlach.me/)
+
 ## Technical Skills💻
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=61DAFB)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&color=61DAFB)
+![](https://img.shields.io/badge/Code-CSharp(Unity)-informational?style=flat&logo=csharp&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB)
 
 

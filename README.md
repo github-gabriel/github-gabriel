@@ -21,6 +21,6 @@ Hallo, ich bin Gabriel. Ich programmiere gerne in meiner Freizeit und hoste auf 
 
 
 ## GitHub Stats📈
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-java-github&theme=ayu-mirage )](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=github-gabriel&theme=ayu-mirage )](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-java-github&hide=ShaderLab,HLSL&langs_count=10&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github-gabriel&hide=ShaderLab,HLSL&langs_count=10&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

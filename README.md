@@ -1,3 +1,5 @@
+![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
+
 <p align="center">
   <img src="https://github.com/gabriel-java-github/gabriel-java-github/blob/main/images/Gabriel-2.png" width="650px">
 </p>

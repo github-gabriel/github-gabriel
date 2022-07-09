@@ -4,7 +4,7 @@
 
 # Gabriel GitHub
 
-Hallo, ich bin Gabriel. Ich programmiere gerne in meiner Freizeit und hoste auf GitHub einige meiner Projekte. Außerdem habe ich auch eine eigene <a target="_blank" href="https://gabriel-haberlach.me/">Website</a>. Am liebsten aber arbeite ich mit Java. Zur Zeit interessiere ich mich auch sehr für Spring Boot und versuche C++ zu lernen.
+Hallo, ich bin Gabriel. Ich programmiere gerne in meiner Freizeit und hoste auf GitHub einige meiner Projekte. Außerdem habe ich auch eine eigene <a target="_blank" href="https://gabriel-haberlach.me/">Website</a>. Am liebsten aber arbeite ich mit Java. Zur Zeit interessiere ich mich auch sehr für Spring Boot und versuche C++ zu lernen. Am meisten möchte ich mich auf Backends fokussieren, da mich Sachen wie Server interessieren, aber auch in Frontend Development möchte ich mich weiterentwickeln, vor allem was JavaScript angeht.
 
 ## Über mich
 

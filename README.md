@@ -34,3 +34,17 @@ Hallo, ich bin Gabriel. Ich programmiere gerne in meiner Freizeit. Ich erstelle 
   </a>
   
 </div>
+
+## Kontakt
+
+<p align="left">
+  <img width="60" src="images/gmail.png" alt="gmail" />
+</p>
+
+ ## gabriel.haberlach@gmail.com
+
+<p align="left" href="">
+  <img width="80" src="images/discord.png" alt="discord" />
+</p>
+
+## gabriel.dc#5550

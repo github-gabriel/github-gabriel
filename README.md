@@ -26,11 +26,11 @@ Hallo, ich bin Gabriel. Ich programmiere gerne in meiner Freizeit. Ich erstelle 
 <div style="margin: 80px;">
 
   <a href="https://github.com/github-gabriel/vertretungsplan">
-    <img align="left" height="150em" src="https://github-readme-stats-neon-omega-77.vercel.app/api/pin/?username=github-gabriel&repo=vertretungsplan&theme=calm"/> 
+    <img align="left" height="130em" src="https://github-readme-stats-neon-omega-77.vercel.app/api/pin/?username=github-gabriel&repo=vertretungsplan&theme=calm"/> 
   </a>
 
   <a href="https://github.com/github-gabriel/portfolio">
-    <img align="center" height="150em" src="https://github-readme-stats-neon-omega-77.vercel.app/api/pin/?username=github-gabriel&repo=portfolio&theme=calm"/>
+    <img align="center" height="130em" src="https://github-readme-stats-neon-omega-77.vercel.app/api/pin/?username=github-gabriel&repo=portfolio&theme=calm"/>
   </a>
   
 </div>

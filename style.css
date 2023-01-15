@@ -1,8 +1,6 @@
 .container {
-  display: table;
-}
-
-.container img, .container span {
-  display: table-cell;
-  vertical-align: middle;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 35px 1fr;
+    align-items: center;
 }

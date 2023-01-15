@@ -1,13 +1,8 @@
 .container {
-  display: flex;
-  height: 35px; /* change the value to match the image height */
-  align-items: center;
+  display: table;
 }
 
-.container span {
-  line-height: 35px; /* change the value to match the image height */
-}
-
-.container img {
-    vertical-align: middle;
+.container img, .container span {
+  display: table-cell;
+  vertical-align: middle;
 }

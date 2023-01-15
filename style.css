@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  height: 35px; /* change the value to match the image height */
+  align-items: center;
+}
+
+.container span {
+  line-height: 35px; /* change the value to match the image height */
+}
+
+.container img {
+    vertical-align: middle;
+}

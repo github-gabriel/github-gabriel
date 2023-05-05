@@ -16,7 +16,7 @@ Hallo, ich bin Gabriel. Ich programmiere gerne in meiner Freizeit. Ich erstelle 
 
 ### 📌 <img src="images/gmail.png" width="35"></img> Kontakt: gabriel.haberlach@gmail.com
 
-### 📌 <img src="images/www.png" width="35"></img>  Website: [gabriel-haberlach.me](https://gabriel-haberlach.me/)
+### 📌 <img src="images/www.png" width="35"></img>  Website: [dev.gabriel-haberlach.de](https://dev.gabriel-haberlach.de/)
 
 ## GitHub Stats📈
 ![Top Langs](https://github-readme-stats-neon-omega-77.vercel.app/api/top-langs/?username=github-gabriel&hide=ShaderLab,HLSL,C,CMake&langs_count=10&theme=calm&layout=compact)

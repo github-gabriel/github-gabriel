@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate backend developer from Germany</h3>
 
+<p align="center">
+  <img width="500px" height="auto" src="https://github.com/github-gabriel/github-gabriel/blob/main/images/ai.jpg">
+</p>
+
 - 🔭 I’m currently working on [Vertretungsplan](https://github.com/github-gabriel/vertretungsplan) and [Game Engine](https://github.com/github-gabriel/game-engine)
 
 - 🌱 I’m currently learning **the Spring Framework and C++**
